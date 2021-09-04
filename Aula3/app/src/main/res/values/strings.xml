@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Aula3_27_08</string>
     <string name="placeholder_name">Nome</string>
-    <string name="placeholder_email">E-mail</string>
+    <string name="placeholder_email" translatable="false">E-mail</string>
     <string name="placeholder_phone">Telefone</string>
     <string name="placeholder_save">Salvar</string>
     <string name="placeholder_he">Ele</string>
@@ -9,4 +9,9 @@
     <string name="placeholder_neutral">Pronome neutro</string>
     <string name="placeholder_contact_preferences">Preferência de contato</string>
     <string name="placeholder_pronoun_preferences">Como você quer ser chamadx?</string>
+    <string name="placeholder_phone_type_label">Tipo de telefone</string>
+    <string name="error">Erro</string>
+    <string name="fieldsMissing">Preencha todos os campos</string>
+    <string name="placeholder_date">Data</string>
+    <string name="placeholder_time">Hora</string>
 </resources>

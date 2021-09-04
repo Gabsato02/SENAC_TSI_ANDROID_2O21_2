@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/SENAC_TSI_ANDROID_2O21_2/Aula3/app/src/main/res/layout/activity_exemplo_contato.xml" value="0.1" />
+        <entry key="..\:/SENAC_TSI_ANDROID_2O21_2/Aula3/app/src/main/res/layout/activity_exemplo_contato.xml" value="0.4" />
+        <entry key="..\:/SENAC_TSI_ANDROID_2O21_2/Aula3/app/src/main/res/layout/activity_exemplo_data_hora.xml" value="0.4" />
         <entry key="..\:/SENAC_TSI_ANDROID_2O21_2/Aula3/app/src/main/res/layout/activity_exemplo_pronome.xml" value="0.4" />
+        <entry key="..\:/SENAC_TSI_ANDROID_2O21_2/Aula3/app/src/main/res/layout/activity_exemplo_tipo_telefone.xml" value="0.264" />
       </map>
     </option>
   </component>

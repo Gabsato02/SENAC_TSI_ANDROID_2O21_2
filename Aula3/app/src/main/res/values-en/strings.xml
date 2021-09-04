@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula3_27_08</string>
+    <string name="placeholder_name">Name</string>
+    <string name="placeholder_phone">Phone</string>
+    <string name="placeholder_save">Save</string>
+    <string name="placeholder_he">He</string>
+    <string name="placeholder_she">She</string>
+    <string name="placeholder_neutral">It</string>
+    <string name="placeholder_contact_preferences">Contact preference</string>
+    <string name="placeholder_pronoun_preferences">How do you prefer to be called?</string>
+    <string name="placeholder_phone_type_label">Phone type</string>
+    <string name="error">Error</string>
+</resources>
